@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+section {
+  padding: 60px;
+}
+
 body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;

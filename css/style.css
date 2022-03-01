@@ -27,6 +27,7 @@ section {
   font-style: italic;
   flex-wrap: wrap;
   color: #fce138;
+  margin-bottom: 8px;
 }
 
 .hero-cta p {

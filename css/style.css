@@ -16,17 +16,35 @@ section {
   background-position: center;
   position: relative;
 }
-/* Hero Style End */
+
+.hero-cta {
+  width: 500px;
+}
+
+.hero-cta h1 {
+  text-align: right;
+  font-size: 56px;
+  font-style: italic;
+  flex-wrap: wrap;
+  color: #fce138;
+}
+
+.hero-cta p {
+  color: white;
+  flex-wrap: wrap;
+  text-align: right;
+}
 
 .hero-form {
   background-color: #fce138;
-  padding: 20px;
-  width: 500px;
+  padding: 24px;
+  width: 600px;
   color: #024e76;
   border: solid 3px #024e76;
   position: absolute;
   bottom: 120px;
   right: 140px;
+  border-radius: 16px;
 }
 
 .hero-form h3 {
